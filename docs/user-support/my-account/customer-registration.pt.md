@@ -107,7 +107,7 @@ atualizações sobre descontos e promoções. Em seguida, clique em **Habilitar*
 
 Vincule um número de celular válido para a segurança da conta e verificação de
 identidade. Insera seu número de telefone, clique em **Enviar Código**, insera o
-código de verificação recebido por SMS e cli em **Próximo**.
+código de verificação recebido por SMS e clique em **Próximo**.
 
 {% include image.html post=page.path file="step6-bind-mobile-number_pt.png" alt="Bind Mobile Phone Number" %}
 
