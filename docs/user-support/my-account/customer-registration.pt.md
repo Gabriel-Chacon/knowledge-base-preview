@@ -11,10 +11,10 @@ permalink: /docs/user-support/my-account/customer-registration
 
 V1.0 – Nov 2025
 
-| **Versão**        | **Autor**                           | **Descrição**        |
-| ----------------- | ----------------------------------- | -------------------- |
-| V1.0 – 2025-11-24 | Fernando Gabriel Chacon  50037923   | Initial Version      |
-| V1.0 – 2025-11-24 | Gabriel Gutierrez  00817435         | Document Review      |
+| **Versão**        | **Autor**                           | **Descrição**       |
+| ----------------- | ----------------------------------- | --------------------|
+| V1.0 – 2025-11-24 | Fernando Gabriel Chacon  50037923   | Versão Inicial      |
+| V1.0 – 2025-11-24 | Gabriel Gutierrez  00817435         | Revisão do Documento|
 
 1. Índice
 {:toc}
